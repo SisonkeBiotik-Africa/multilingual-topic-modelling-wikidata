@@ -6,8 +6,8 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
 ## Files
 * **Source**: We propose four algorithms in this research project. LDA here stands for Latent Dirichlet Allocation using collapsed Gibbs sampling. Explanation is also available in French at Topic_Modelling_with_Wikidata_Code_Source.ipynb:
   * *noun-based.py*: This algorithm includes all the terms of a sentence except stopwords in the LDA Algorithm. Here, punctuations are also eliminated before LDA. Nouns are not singularized or translated before LDA.
-  * *noun-phrase-based.py*: This algorithm
-  * *language-neutral.py*: This algorithm
+  * *noun-phrase-based.py*: This algorithm extracts the noun phrases in every analyzed sentence and singularizes them using Spacy mono-lingual pre-trained models. Then, the n-grams included in noun phrases are retrieved. The LDA is performed on noun phrases and on the n-grams they include.
+  * *language-neutral.py*: This algorithm does the same as *noun-phrase-based.py*. However, prior to performing LDA, it converts extracted noun-phrases and n-grams into their Wikidata ID allowing an entity to be represented the same regardless the input language.
   * *language-neutral-representation-conversion.py*: This algorithm converts the output of *language-neutral.py* into a human-readable topic representation in a given natural language.
 * **Corpus**: To test our approaches, we use four corpora of 500 sentences:
   * *en-500*: English sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
