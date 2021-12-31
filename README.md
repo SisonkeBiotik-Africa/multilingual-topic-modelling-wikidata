@@ -14,6 +14,8 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
   * *es-500*: Spanish sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
   * *fr-500*: French sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
   * *multi-500*: Sentences in English, French and Spanish randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+* **Corpus_prep:** The creation and sampling process of the corpora is available in a ZIP File and an Excel File.
+* **Output:**
 ## Dependencies
 * langdetect=1.0.9
 * advertools=0.12.3
