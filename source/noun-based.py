@@ -1,4 +1,3 @@
-from numpy.core.fromnumeric import nonzero
 from langdetect import detect
 import advertools as adv
 import numpy as np
