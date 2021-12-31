@@ -1,5 +1,9 @@
 # Multilingual-Topic-Modelling-Wikidata
 An algorithm for language-independent LDA-based multilingual topic modelling based on Spacy and Wikidata
+## Description
+
+## Files
+
 ## Dependencies
 * langdetect=1.0.9
 * advertools=0.12.3
