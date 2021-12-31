@@ -1,0 +1,200 @@
+In contrast, PCR tests can also give false-positive results, and patients have been diagnosed as re-positive when they were actually negative
+In a report by Lei et al., five patients who had recovered from severe COVID-19 infection and who had been quarantined in an isolation ward still tested positive
+For instance, countries such as the USA, Brazil, Russia, and India did not implement comparable measures; therefore, the numbers of cases have been rising fast
+This validation was repeated with clinically available samples from infected patients in Europe and other geographical regions, including North America and South America
+In order to prevent this Th2-type immunopathology, a few studies have worked on adjuvant optimization
+Traditional vaccine development methods, although extremely effective in combating highly contagious diseases such as measles, require a large number of active viruses during production and can even take a longer time for the development in case attenuated pathogens are needed
+They deliver antigen into the cells mimicking natural infection, so they induce strong antigen-specific cellular and humoral immune responses per se, thereby obviating the need for additional adjuvants
+In this way, DNA vaccination stimulates the production of antibodies and the activation of killer T cells
+However, CT scans also have some shortcomings, such as the hysteresis of abnormal CT imaging and indistinguishability from other viral pneumonia presentations
+The use of nanobodies would improve the detection rate and accuracy of SARS-CoV-2
+Vaccine trials in the USA are using lipid nanoparticles encapsulated mRNA encoding the spike proteins, plasmid encoding spike proteins and recombinant Adenovirus
+CT can identify the possible abnormalities caused by the viral infection in the chest and the abnormal features that could lead to COVID-19 or other pneumonia diagnoses
+Architect SARS- CoV-2 IgG, one of the developed tests, provides more than 99% specificity and sensitivity when tested 14 d or more after the infection
+Moreover, some sample preparation steps can be added prior to the serology test
+As the incidence of SARS-CoV-2 decreases, the time required to meet efficacy endpoints increases
+Bosch developed a fully-automated rapid test for the detection of SARS-CoV-2 with 95% accuracy that meets WHO quality standards
+Conflict of interest  The authors declare that they have no conflict of interest
+The cost to manufacture and internationally deploy an efficacious COVID-19 vaccine will be vast, and the process will be at risk of politicisation
+Biohacking is a "do-it-yourself biology", a somewhat romantic biotechnological social movement in which individuals and small organizations are involved in transforming both life sciences and information systems using low cost, open-source alternatives, and open-access tools, claiming independence from both academic and corporate institutions
+Concurrently, clinical trials are being conducted for some of these medications while the trials for others are yet to begin
+The microfluidic system incorporated with PCR targeted four detection genes of HIV to improve sensitivity and specificity and to reduce the rate of false-negative results
+Here, we provide a multidisciplinary review of the current literature involving the SARS-CoV-2 virus
+Currently, three vaccine candidates have been chosen by the US government to fund Phase III trials under Operation Warp Speed, including Moderna's mRNA-1273 in July, the University of Oxford, AstraZeneca's AZD1222 in August, and Pfizer and BioNTech's BNT162 in September
+In August, Russia cleared the Sputnik V vaccine for widespread use, claiming it to be the first registered COVID-19 vaccine on the market before the vaccine's phase III trials had begun and despite the lack of published evidence at the time
+It remains a challenge to understand why some patients develop a cytokine storm while others do not
+Chinese Academy of Medical Sciences has designed an inactivated SARS-CoV-2 vaccine in collaboration with the Institute of Medical Biology
+47D11 binds a conserved epitope on the spike RBD, explaining its ability to cross-neutralize SARS-CoV and SARS-CoV-2, with diverse mechanisms of action that are independent of receptor binding inhibition 139
+In fact, several AI applications are currently under development or have already been developed for the diagnosis of SARS-CoV-2
+, However, this range significantly increases in the short-term re-examination, where more denser lesions can be seen
+The presence of antibodies was <40% among patients within 1-week since onset, and rapidly increased to 100.0% for total antibodies, 94.3% for IgM, and 79.8% for IgG on day 15 after onset
+Access to the whole genome structure of SARS‐CoV‐2 has helped the design of specific primers and has introduced the best diagnostic protocols
+Type I IFNs are antiviral cytokines that induce a large range of proteins that can impair viral replication in targeted cells
+A Dutch study involving 184 ICU with proven COVID-19 found a 31% incidence of thrombotic complications, of which 27% comprised of radiographically confirmed VTE
+Stratification analysis will, therefore, be important to establish the effect of pre-existing immunity on efficacy outputs
+Affordability, sensitivity, specificity, user-friendliness, rapidity and robustness, being free of equipment and being easily deliverable to end users are the key drivers towards diagnostic readiness under difficult circumstances
+Further addition of the Anti-human IgG acridinium-labeled conjugate into the incubation medium creates a chemiluminescent signal that is measured as relative light units
+In the eighteenth century, the first influenza pandemic was reported in Russia during the winter of 1729; from there, it spread across Europe over a period of six months and around the world in three years
+The vaccine candidate is built upon CanSinoBIO's adenovirus- based viral vector vaccine technology platform, which has also been successfully applied to develop a globally innovative vaccine against Ebola virus infection
+If a SARS-CoV-2 vaccine were to show efficacy, a priority would be to identify an in-vitro correlate or surrogate of protection
+Still, the home kit is available at limited numbers and only for a limited number of locations, in its current state
+However, only a few of them entered clinical trials and none of them have been FDA approved
+In particular, the most potent antibodies, P2B-2F6 and P2C-1F11, out-competed ACE2 with close to 100% efficiency, indicating that blocking the RBD and ACE2 interaction is a useful surrogate for antibody neutralization
+If an immunological correlate of protection is known, then the protective efficacy of a vaccine can be assessed by measuring the proportion of vaccinees who generate a particular immune response, without having to measure clinical outcomes
+68  Autopsy analysis of a COVID‐19 patient displayed fluid accumulation and hyaline membrane formation in alveolar walls, which may be the primary pathological driver of the ground‐glass opacity
+As no specific therapeutics and vaccines are available for disease control, the epidemic of COVID-19 is posing a great threat for global public health
+In brief, DNA vaccine consists of delivering genes or fragments of it, encoding immunogenic antigens to the host's cells by using DNA plasmids as a vector
+70  It is characterized by a persistent fever, exanthema, lymphadenopathy, conjunctival injection and changes to the mucosae and extremities
+The structural proteins play an essential role in budding the virus particles released from different host cells
+122  The new duck‐specific CoV was a possible new species within the genus Gamma‐coronavirus, as shown by sequences of the viral 1b gene from three regions
+On November 23, AstraZeneca announced interim results from two of its phase III trials showing 90% successful effectiveness in preventing COVID-19 by administering a half dose of the drug followed by a full dose 1 month later
+In addition, the adaptation of the S glycoprotein and its affinity for ACE2 has significantly enhanced the severity of COVID-19 infection
+Hence, the LAMP test will help to decrease the cost of coronavirus detection
+No drug is approved by or WHO for COVID-19 but are under investigations and hopefully will soon give a satisfactory answer
+Chloroquine is an aminoquinoline class small molecule drug, which is used for the treatment of malaria
+Moreover, this company has announced a longer shelf life of the current vaccine at refrigerating temperatures and can be safely stored on ice or in a normal refrigerator for 30 days
+This protocol has been tested on a limited number of nasopharyngeal swab samples and demonstrated no negative impact on the sensitivity of the RT-PCR test
+Theoretically therefore, vaccines are likely to be somewhat less effective in older people
+Similar to other respiratory infections such as SARS-CoV and MERS-CoV, SARS-CoV-2 is transmitted through droplets of various sizes
+These measures include self-isolation, quarantine, social distancing, and community containment
+The S1‐specific IgG signal relates strongly to age and lactate dehydrogenase lactate dehydrogenase levels and negatively relates to the lymphocyte ratio
+The enthusiasm to design different COVID-19 vaccines is also plaguing the biohacking community
+The test result becomes "SARS-CoV-2 positive" when all the viral N genes are tested positive
+The usefulness of pooling of data assumes that trial protocols can be sufficiently aligned and might come at the expense of a loss of statistical power if heterogeneity exists between trials
+These results have dampened the enthusiasm of whole-inactivated coronavirus vaccines
+Time and worsening of disease are other crucial factors that seem difficult to be met
+Although chest CT scans can show higher sensitivity in COVID-19 diagnosis than RT-PCR assay, Pan et al
+However, trials in these populations are possible and judicious application of pause rules and other safety criteria could mitigate against the risk of unnecessary and costly delays
+IgM is the first antibody produced during an infection, while the IgG is the most common and abundant one in serum
+A clinical trial was designed to evaluate the safety and tolerability of orally immunized bacTRL-Spike vaccine in healthy adults
+The COVID-19 vaccine research and development landscape includes 115 vaccine candidates globally as of April 8, 2020
+More tools that improve the use of clinical and epidemiological big data will become increasingly available134,135 and are currently being developed by laboratory scientists together with data scientists and software developers
+The polyproteins pp1ab and pp1b form NSP1-11 and NSP1-16, respectively
+SARS-CoV-2 belongs to the beta-coronavirus group, which also includes MERS-CoV and SARS-CoV
+In one retrospective cohort study involving 1,438 patients hospitalized in metropolitan New York, treatment with hydroxychloroquine, azithromycin, or both was not associated with significantly lower in-hospital mortality when compared to neither treatment
+It is believed that the higher neutralizing antibody vaccination induces, the better protective effect it will be
+The spike proteins of the Coronaviruses are divided into two domains; S1 and S2
+Besides, Symvivo Corporation has developed bacTRL-Spike, a live Bifidobacterium vaccine engineered to deliver synthetic plasmid DNA encoding spike protein from SARS-CoV-2
+Therefore, confirmation from a larger scale and randomized, double-blind trial is required to fully assess the efficacy of meplazumab in patients with COVID-19 pneumonia
+Edward Wright, senior lecturer in microbiology at the University of Sussex, says that an antibody test cannot tell us who is infected as the antibodies are generated up to two weeks later when the virus should have been cleared from the system
+Moreover, the area of mRNA vaccine is very rapidly developing
+The relative stability of SARS-CoV-2, unlike HIV, provides a strong rationale for vaccine development
+Red words represent the important turning points in SARS-CoV-2 infection
+The crucial point in designing the peptide vaccines is identifying the B-cell and T-cell epitopes, which are immunodominant with the ability to induce specific immune responses
+It is spreading at an exponential rate and there are still no effective drugs with which to treat the disease even though some therapeutic options do exist
+In future pathology studies, it will be interesting to determine whether the clinical suspicion of widespread "microthrombosis" is confirmed by histopathology, and if so, to determine whether this is common or occurs only in a small subset of cases
+Particularly, the WHO guidelines issued during the spread of SARS-COV and MERS-COV regarding the control of infections greatly reduced the risk of transmission of acute respiratory infections, including SARS-CoV-2
+2  Both innate and adaptive immunity can be activated by SARS‐CoV‐2 infection
+As a result of the current outbreak of COVID-19, Denka is working on the development of a simple and fast detection kit by implementing not only immunochromatographic methods but also antigen identification methods such as ELISA for diagnosis of COVID-19
+SHH is a National Institute for Health Research academic clinical lecturer in infection at the University of Oxford and a research fellow at St Peter's College, University of Oxford
+A deep learning approach can assist radiologists in diagnosing COVID-19 and can automatically extract lesions within CT images, as indicated by Song et al
+Usually, successful development of a vaccine takes around ten years
+Some of these methods are suitable for mass testing and, consequently, for the identification of asymptomatic patients to control the further spread of COVID-19
+This leads to initiate a cytokine storm and consequently trigger a series of sever immune responses
+There are also immunopathological complications associated with the SARS-CoV and MERS-CoV vaccines that require addressing and further optimization
+Nano-based drug delivery systems and methods have been evaluated for the previous coronavirus diseases SARS-CoV and MERS-CoV
+In the COVID infection, virus particles begin to spread through the respiratory tract and infect the surrounding uninfected cells
+Many preclinical and clinical investigations by different Institutions, Government bodies, research centers and pharmaceutical industries focused on testing the efficiency of various existing drug moieties based on their previous history to treat viral infections
+The nucleocapsid protein also interacts with the nsp3 and M proteins
+A total of 422 subjects are planned to enroll, consisting of 72 participants for phase 1 and 350 for phase 2
+This CRISPR‐based approach has provided a visual and quicker alternative option to the SARS‐CoV‐2 real‐time RT‐PCR method used in the US Centers for Disease Control and Prevention, with approximately 100% negative predictive agreement and 95% positive predictive agreement
+The liposome can also induce the production of IgA, which will provide the host with possible mucosal defense.120 Virosomes are lipid vesicles around 150 nm in size and contain viral proteins
+This information might guide the physician in decision-making related to treatment options
+The clinical symptoms of COVID-19 infection can be seen after 5-6 days of incubation which mainly differs from age and immune system of the person
+Here, we have summarized recent progresses on diagnostic methods for COVID-19 disease
+Various forms of vaccines targeting SARS-CoV and MERS-CoV have been developed and tested in preclinical models
+The majority of patients with SARS-CoV-2 infection have been found to start with mild symptoms and, during the course of a week, progress to moderate or severe disease
+As the blood-buffer solution passes through the test strip, if only the control line is discolored the individual is not infected with SARS-CoV-2
+33  Like SARS‐CoV and MERS‐CoV, the SARS‐CoV‐2 virus infects human airway epithelial cells and possibly other ACE‐2 expressing tissues
+So far, a variety of viruses have shown pandemic potential, including influenza and other coronaviruses such as SARS, MERS, and SARS-CoV-2
+Compared to a single IgM or IgG test, the IgM‐IgG combination analysis has a higher effectiveness and sensitivity
+β-coronavirus is an enveloped, nonsegmented, positive-sense single-stranded RNA virus genome in a size ranging from 29.9 kb
+Panic-control measures must be taken to avoid spreading social disruptions which often occur under these circumstances
+The clinical agreement values are higher than the previous kits
+Many researchers and medical device manufacturing companies have developed and studied COVID-19 immunoassays to identify the presence of corresponding antigens or antibodies in COVID-19 patients
+Many researchers and medical manufacturing companies have developed COVID-19 molecular detection kits to identify the presence of SARS-CoV-2 in the respiratory tract of patients
+Extensive basic research into RNA and lipid and polymer biochemistry has enabled translating mRNA vaccines into clinical trials
+No published pathology reports have illustrated widespread multi-organ thrombi in the setting of COVID-19
+The industrial technology needed to scale up the production to a billion doses will depend on which kind of vaccine will work best
+Upon binding to the membrane receptor ACE2, SARS-CoV-2 virion enters the host cell and releases its plus- strand RNA genome
+The generic validation of a novel technology should be performed on a larger scale, ideally in multiple laboratories, and should include a much more comprehensive investigation of the critical parameters relevant to the specific technology to provide the highest chance of detecting sources of variation and interference
+All the treated patients received 200 mg of HCQ for 10 days with 3 doses per day, while the control group received usual care for COVID-19
+Indeed, after experiencing the devastating effect of three major coronaviruses pandemics, the global community may now make extra efforts for preventing the transmission of animal viruses to humans and remain vigilant, should it happen again in the future
+Top 10 country-wise analysis of the count of COVID-19 related cases
+As per the latest WHO situation report 162 released on 1st July 2020, 10,185,374 confirmed cases and 503,862 death cases reported throughout the world
+On May 18, Moderna announced positive interim phase 1 results for mRNA-1273 against SARS-CoV-2 149
+Notably, reported cases confirm human‐to‐human transmission, along with numerous cases of exported virus infections all over the world
+  * Viral vector-based vaccines have low efficiency due to the preexisting immunity to the vector
+Moreover, the safety and immunogenicity of GX-19, another DNA vaccine against COVID-19 that uses intramuscular immunizations are already in clinical trials
+Patients with these features correlated with higher severity of disease and a poorer clinical outcome
+As rapid diagnostics and development of drugs and vaccines for the virus are important interventions to control the outbreak, a review article that encompasses the current research on this topic may provide help for guiding strategies to address the current COVID-19 pandemic
+A few studies in the literature have examined the use of AI in COVID-19 diagnosis, although most of them are preprint version of scientific articles that have not been peer-reviewed, thus highlighting the need for further investigation
+Consequently, there are few live-attenuated vaccines in development
+Few SARS-CoV and MERS-CoV VLP vaccines have been reported so far
+Favipiravir is an RNA polymerase inhibitor that is used for the treatment of influenza in China
+Cases of an unidentified form of viral pneumonia were first reported in Wuhan city, Hubei province, China, in December 2019
+Several different virus vectors have been developed as SARS-CoV-2 vaccines
+Most of the knowledge about the physicochemical properties of CoVs comes from SARS-CoV and MERS-CoV
+This is an oral recombinant vaccine in tablet formulation developed by Vaxart
+Cytokines produced by infected cells recruit alveolar macrophages, which in turn increase vascular permeability, recruit other components of the immune system and mount the acute phase response
+112  Based on other evidence, a nucleic acid visualization method was developed that combines RT‐LAMP and a vertical flow visualization strip for MERS detection
+After initial outbreak, diagnostic tests based on the detection of the viral sequence by RT-PCR or next generation sequencing platforms soon became available
+In contrast to ACE2 receptor blockers, the most part of repurposed anti- COVID-19 drugs do not interact with the viral entry to the host cells
+Each of the developed methods for the detection of SARS-CoV-2 is suitable for specific situations, but each has some drawbacks, so the search has continued for other detection techniques that have higher sensitivity, better specificity, and lower detection time
+AJP is Chair of the UK Department of Health and Social Care Joint Committee on Vaccination and Immunisation but does not participate in discussions on COVID-19 vaccines and is a member of WHO's Strategic Advisory Group of Experts
+-Mirror, mirror on the wall, who's the fairest of them all? Data from Phase III studies will provide an excellent indication of the efficacy, limits, and safety of the candidate vaccines
+Thus, safety is considered as one of the most important challenges in the rapid development of the vaccine
+SPR systems are now widely available in laboratories, and especially the ones with automated handling systems can analyze several samples without human interference
+However, given that older participants, especially people with comorbidities, are more likely to socially shield, they might be less likely to be exposed to SARS- CoV-2 and so a mortality efficacy endpoint might still not be met
+Pangolins were then reported as potential intermediate hosts after samples were analyzed from Malytan pangolins, an endangered species illegally trafficked into southern China for use in old-fashioned Chinese medicine and as a food source
+These results have pointed towards the possibility of a human-to-human transmission of the virus, which was subsequently reported in more than 200 countries around the world
+The occurrence of neurologic disorders was found to confer a higher risk of in-hospital mortality.79 This clinical evidence may fuel speculation about the propensity of SARS-CoV-2 to permeate the brain barriers and trigger neurological damage
+Moreover, the antibody against SARS-CoV-2 was detectable only after the second infectious episode
+However, robust data from clinical trials are needed to support the efficacy and safety profile of these drugs since very few such studies have been reported
+Subsequently, this complex replicates and synthesizes a nested set of subgenomic RNA by genome transcription, encoding structural proteins and some accessory proteins
+Now, FluGen has inserted SARS-CoV-2 S-protein gene sequences into M2SR to induce an immune response against SARS-CoV-2.141 Although vaccines are primarily administered via the invasive parenteral route,142 a noninvasive nasal immunization has the potential to induce robust mucosal and systemic immune responses against respiratory viral infections.143,144  ##### Adenovirus Vaccines  Adenoviruses have double-stranded linear DNA enveloped in an icosahedral capsid.145 Adenoviruses activate the innate as well as adaptive immunity in mammalian hosts and trigger the release of pro-inflammatory cytokines
+In the experimental models, this candidate induces the highest-titer IgG antibodies and neutralizing antibodies in comparison to the other RBD fragments
+The human- to-human transmission of SARS-CoV-2 mostly happens in the presence of the close proximity of an infected individual due to the exposure to cough, sneeze, respiratory droplets, or aerosols
+Like many other infections, the Asian flu also appeared in successive waves and contained a more severe second wave than the first one
+Also, in the case of anti-SARS-CoV-2 mRNA vaccines, the target antigen coded by the mRNA is mostly if not only, represented by the Spike protein, its variants, or its fragments
+To amplify specific targets by recombinase polymerase amplification, in which all targets are simultaneously amplified, the Penn‐RAMP requires a preliminary reaction with outer LAMP primers
+IFN-γ, despite its eminent antiviral activity, leads to PD-1 expression on macrophages
+**A** SARS-CoV-2 is an oily spherical particle containing a single- stranded positive-sense RNA of about 30 kb wrapped and coiled by the Nucleocapsid protein
+Therefore, published safety and efficacy data for adjuvanted protein vaccines in older people are currently minimal, though initial results from ongoing studies are expected imminently
+It is anticipated that vaccines and drugs will be found to reduce the global public health damage unleashed by this virus
+Nanotechnology has catalysed novel candidate vaccines towards clinical testing at an extraordinary speed
+Currently, diagnostic methods for COVID‐19 are numerous; hence, it is imperative to choose a suitable detection protocol
+A Phase I multi-center, randomized, double- blinded, and placebo-controlled outpatient study started in 2011 to investigate the safety, reactogenicity, and immunogenicity of this candidate in healthy subjects of 18 to 40 years of age
+A risk exists for SARS-CoV-2 vaccine-associated enhanced respiratory disease, and it is unknown how it might manifest in humans
+Both transmission from unidentified intermediate hosts to cross‐species and human to human transmission have been recognized
+Radiological findings  Chest X‐ray examination may display diverse imaging characteristics or patterns in COVID‐19 patients with a different disease severity and duration
+The presence of GGO with single or multiple lesions suggests that the disease is in an early stage, while bilateral multifocal consolidation can be seen in an advanced stage
+CT of the chest comprises an urgent and simple method for detecting initial COVID‐19 infection with a high sensitivity for prompt diagnosis and disease progression monitoring in patients
+They only require chip or surface modification by antigens or antibodies
+In addition, they are directly injected or otherwise inoculated into recipients
+These trials are very expensive so governments and philanthropic investments are the most viable means of financing inhaled COVID 19 vaccines development and trials
+These promising results suggested that Gam-COVID-Vac is safe and effective in preventing COVID-19
+Besides, clinical trials have also initiated to estimate some experimental COVID-19 vaccines on humans
+A similar picture was also observed at the hospital level, with a drop of routine activity163 and the acute need for reallocation of staff and services161
+The locally moist and warm atmosphere within the turbulent air helps the droplets escape evaporation much longer; this considerably extends the lifetime of the droplet from a fraction of a second to minutes.47 Additionally, coughing and sneezing also generate the aerosol plumes at a high enough velocity to infect someone who is standing in proximity to the patient
+The receptor-binding domain spike protein segment is well known as highly antigenic with the ability to induce the humoral and cellular immune responses that are widely used for vaccine development
+The biosensor was calibrated by comparing results with clinical diagnostics of 142 individuals clinically confirmed as positive and negative SARS-CoV-2 patients and 97% accuracy and sensitivity was achieved
+Type II pneumocyte cells normally comprise 10-15% of total lung cells
+In addition, it can induce the robust CD8 + T-cell induction and a Th1 biased T-helper cellular immune response
+In the case of COVID‐19, virus morphology can be observed by electron microscopy according to traditional Koch's postulates
+Antigens usually consist of altered forms of the virus, bacteria, toxin, and protein of genetic material that directly stimulate the immune system of an individual but do not cause the disease or produce weakened light symptoms of the illness
+However, the neutralizing antibodies can be engineered of Fc region with molecular precision to avoid the potential ADE
+It has been hypothesized that this process leads to down-regulation of surface ACE2, resulting in unopposed angiotensin II buildup and activity, leading to a pro-inflammatory cascade
+The origin of COVID-19 is believed to be a seafood wholesale market in Hunan which also sells different types of wild animals including snakes, birds, bats, rabbits, and frogs, etc
+These structural proteins are essential for the assembly and infection of coronavirus, which consists of S1 and S2 subunits
+However, older people with co-morbidities and frailty have once again been largely excluded and there are no published data on safety and efficacy in this group
+In addition, the patients' specific NAb titers increased following the transfusion, and respiratory samples became negative within 12 days
+RT-LAMP is a rapid and precise detection method for SARS-CoV-2, and it has been proven to be a suitable method for large-scale screening of the virus
+Another advantage is the low cost of materials that can be freeze-dried for transportation
+79  The approach occurs at a single temperature, in less than 1 hour, and with minimal background signals
+We will know if vaccines to efficaciously control the SARS-CoV-2 virus spreading remain a far goal or if they are already here
+In the United States, the CDC recommends the collection of NP swabs for asymptomatic individuals
+Regular screening of study participants for asymptomatic infections after vaccination and testing of symptomatic participants allows calculation of the true incidence of infection in groups
+The University of Oxford with AstraZeneca currently developed an adenovirus vector vaccine, the ChAdOx1nCoV-19
+After the SARS outbreak, there has been very slow progress towards the development of both vaccines and antiviral medicines
+After taking the sample and adding the clinical transport medium, the prepared sample is transferred to the laboratory, where the FET biosensor is used for the detection of SARS-CoV-2
