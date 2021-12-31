@@ -1,10 +1,10 @@
 Application, Runtime, Log-Likelihood 1500
-multi-N, 16 s, -63219
-en-N, 13 s, -59877
-fr-N, 18 s, -60109
-es-N, 18 s, -59982
-multi-NP, 40 min 16 s, -295014
-en-NP, 32 min 36 s, -39021
+multi-N, , 
+en-N, , 
+fr-N, , 
+es-N, , 
+multi-NP, , 
+en-NP, ,
 fr-NP, , 
 es-NP, , 
 multi-LN, , 
