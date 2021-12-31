@@ -11,11 +11,11 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
   * *noun-phrase-based.py*: This algorithm extracts the noun phrases in every analyzed sentence and singularizes them using Spacy mono-lingual pre-trained models. Then, the n-grams included in noun phrases are retrieved. The LDA is performed on noun phrases and on the n-grams they include.
   * *language-neutral.py*: This algorithm does the same as *noun-phrase-based.py*. However, prior to performing LDA, it converts extracted noun-phrases and n-grams into their Wikidata ID allowing an entity to be represented the same regardless the input language.
   * *language-neutral-representation-conversion.py*: This algorithm converts the output of *language-neutral.py* into a human-readable topic representation in a given natural language.
-* **Corpus**: To test our approaches, we use four corpora of 500 sentences:
-  * *en-500*: English sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
-  * *es-500*: Spanish sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
-  * *fr-500*: French sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
-  * *multi-500*: Sentences in English, French and Spanish randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+* **Corpus**: To test our approaches, we use four corpora of 200 sentences:
+  * *en-200*: English sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+  * *es-200*: Spanish sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+  * *fr-200*: French sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+  * *multi-200*: Sentences in English, French and Spanish randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
 * **Corpus_prep:** The creation and sampling process of the corpora is available in a ZIP File and an Excel File.
 * **Output:** We apply the four algorithms on the three generated datasets and we provide the results of our experiments:
   * *stat.csv*: This provides the values of Log-likelihood at 1500 iterations as well as the runtime of the applications for every dataset.
