@@ -43,7 +43,7 @@ with open("corpus.txt", "r") as f:
     statements = [line for line in f]
 
 titles = []
-#Converting statements into language-neutral Wikidata-driven representations
+#Eliminating punctuations and stopwords
 for text in statements:
     clean = stop_words_elimination(text)
     titles.append(clean)
