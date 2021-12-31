@@ -5,15 +5,15 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
 * The developed algorithms works for texts in sixteen natural languages: *Catalan* (ca), *Danish* (da), *German* (de), *Greek* (el), *English* (en), *Spanish* (es), *French* (fr), *Italian* (it), *Japanese* (ja), *Dutch* (nl), *Norwegian* (no), *Polish* (pl), *Portuguese* (pt), *Romanian* (ro), *Russian* (ru), and *Chinese* (zh).
 ## Files
 * **Source**: We propose four algorithms in this research project. LDA here stands for Latent Dirichlet Allocation using collapsed Gibbs sampling. Explanation is also available in French at Topic_Modelling_with_Wikidata_Code_Source.ipynb:
-** *noun-based.py*: This algorithm includes all the terms of a sentence except stopwords in the LDA Algorithm. Here, punctuations are also eliminated before LDA. Nouns are not singularized or translated before LDA.
-** *noun-phrase-based.py*: This algorithm
-** *language-neutral.py*: This algorithm
-** *language-neutral-representation-conversion.py*: This algorithm converts the output of *language-neutral.py* into a human-readable topic representation in a given natural language.
-* To test our approaches, we use four corpora of 500 sentences:
-** en-500: English sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
-** es-500: Spanish sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
-** fr-500: French sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
-** multi-500: Sentences in English, French and Spanish randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+  * *noun-based.py*: This algorithm includes all the terms of a sentence except stopwords in the LDA Algorithm. Here, punctuations are also eliminated before LDA. Nouns are not singularized or translated before LDA.
+  * *noun-phrase-based.py*: This algorithm
+  * *language-neutral.py*: This algorithm
+  * *language-neutral-representation-conversion.py*: This algorithm converts the output of *language-neutral.py* into a human-readable topic representation in a given natural language.
+* **Corpus**: To test our approaches, we use four corpora of 500 sentences:
+  * *en-500*: English sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+  * *es-500*: Spanish sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+  * *fr-500*: French sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+  * *multi-500*: Sentences in English, French and Spanish randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
 ## Dependencies
 * langdetect=1.0.9
 * advertools=0.12.3
