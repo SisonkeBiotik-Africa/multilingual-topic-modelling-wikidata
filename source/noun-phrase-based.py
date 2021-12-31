@@ -97,7 +97,7 @@ def np_rep(text):
     return s
 
 #Extraction of the statements from the corpus
-with open("multi_500.txt", "r") as f:
+with open("corpus.txt", "r") as f:
     statements = [line for line in f]
 
 titles = []
