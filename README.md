@@ -4,11 +4,11 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
 * This project aims to develop three algorithms that allows the topic modelling of multilingual texts related to the same field of interest. These algorithms are based on a combination of *Language Identification*, *Stopword and Punctuation Elimination*, *Spacy Pre-Trained Language Models*, *Latent Dirichlet Allocation*, and *Semantic Alignement to Wikidata*.
 * The developed algorithms works for texts in sixteen natural languages: *Catalan* (ca), *Danish* (da), *German* (de), *Greek* (el), *English* (en), *Spanish* (es), *French* (fr), *Italian* (it), *Japanese* (ja), *Dutch* (nl), *Norwegian* (no), *Polish* (pl), *Portuguese* (pt), *Romanian* (ro), *Russian* (ru), and *Chinese* (zh).
 ## Files
-* **Source**: We propose four algorithms in this research project. LDA here stands for Latent Dirichlet Allocation using collapsed Gibbs sampling. Explanation is also available in French at :
+* **Source**: We propose four algorithms in this research project. LDA here stands for Latent Dirichlet Allocation using collapsed Gibbs sampling. Explanation is also available in French at Topic_Modelling_with_Wikidata_Code_Source.ipynb:
 ** *noun-based.py*: This algorithm includes all the terms of a sentence except stopwords in the LDA Algorithm. Here, punctuations are also eliminated before LDA. Nouns are not singularized or translated before LDA.
-** *noun-phrase-based.py*:
-** *language-neutral.py*:
-** *language-neutral-representation-conversion.py*:
+** *noun-phrase-based.py*: This algorithm
+** *language-neutral.py*: This algorithm
+** *language-neutral-representation-conversion.py*: This algorithm converts the output of *language-neutral.py* into a human-readable topic representation in a given natural language.
 * To test our approaches, we use four corpora of 500 sentences:
 ** en-500: English sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
 ** es-500: Spanish sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
