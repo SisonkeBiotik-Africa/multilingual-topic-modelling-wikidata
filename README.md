@@ -4,7 +4,11 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
 * This project aims to develop three algorithms that allows the topic modelling of multilingual texts related to the same field of interest. These algorithms are based on a combination of *Language Identification*, *Stopword and Punctuation Elimination*, *Spacy Pre-Trained Language Models*, *Latent Dirichlet Allocation*, and *Semantic Alignement to Wikidata*.
 * The developed algorithms works for texts in sixteen natural languages: *Catalan* (ca), *Danish* (da), *German* (de), *Greek* (el), *English* (en), *Spanish* (es), *French* (fr), *Italian* (it), *Japanese* (ja), *Dutch* (nl), *Norwegian* (no), *Polish* (pl), *Portuguese* (pt), *Romanian* (ro), *Russian* (ru), and *Chinese* (zh).
 ## Files
-
+* To test our approaches, we use four corpora of 500 sentences:
+** en-500: English sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+** es-500: Spanish sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+** fr-500: French sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+** multi-500: Sentences in English, French and Spanish randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
 ## Dependencies
 * langdetect=1.0.9
 * advertools=0.12.3
