@@ -16,11 +16,11 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
   * *multi-500*: Sentences in English, French and Spanish randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
 * **Corpus_prep:** The creation and sampling process of the corpora is available in a ZIP File and an Excel File.
 * **Output:** We apply the four algorithms on the three generated datasets and we provide the results of our experiments:
- * *stat.csv*: This provides the values of Log-likelihood at 1500 iterations as well as the runtime of the applications for every dataset.
+  * *stat.csv*: This provides the values of Log-likelihood at 1500 iterations as well as the runtime of the applications for every dataset.
   * *N_results.txt:* This provides the output of applying *noun-based.py* to a dataset.
- * *NP_results.txt:* This provides the output of applying *noun-phrase-based.py* to a dataset.
- * *LN_results.txt:* This provides the output of applying *language-neutral.py* to a dataset.
- * *results-language-en.txt:* This provides the output of applying *language-neutral-representation-conversion.py* to a dataset with English as a target natural language.
+  * *NP_results.txt:* This provides the output of applying *noun-phrase-based.py* to a dataset.
+  * *LN_results.txt:* This provides the output of applying *language-neutral.py* to a dataset.
+  * *results-language-en.txt:* This provides the output of applying *language-neutral-representation-conversion.py* to a dataset with English as a target natural language.
 ## Dependencies
 * langdetect=1.0.9
 * advertools=0.12.3
