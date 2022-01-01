@@ -24,6 +24,7 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
   * *LN_results.txt:* This provides the output of applying *language-neutral.py* to a dataset.
   * *results-language-en.txt:* This provides the output of applying *language-neutral-representation-conversion.py* to a dataset with English as a target natural language.
   * *results-language-fr.txt:* This provides the output of applying *language-neutral-representation-conversion.py* to a dataset with French as a target natural language.
+  * *results-language-es.txt:* This provides the output of applying *language-neutral-representation-conversion.py* to a dataset with Spanish as a target natural language.
 ## Dependencies
 * langdetect==1.0.9
 * advertools==0.12.3
