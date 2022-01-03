@@ -1,0 +1,20 @@
+Topic 0: En_quarantaine severity majorité adaptation domicile Requerimiento personne_morale pays
+Topic 1: besoin États-Unis_d'Europe étude Besoin tissu_biologique Activation Crise gestation
+Topic 2: vaccin Virus_T-lymphotropique_humain_1 Development Nested_set stratégie Public_Health épidémie Viroporin_3a_[SARS-CoV-2]
+Topic 3: situation lieu structural_protein degré_de_comparaison langage_de_programmation vaccin_expérimental industrial_technology accessory_protein_XCC2721
+Topic 4: virus enfant mère Associées_pour_la_loi médecin_interniste virus_de_l'immunodéficience_humaine Clinical_Evidence garçon
+Topic 5: grippe récipient corticoïde République_populaire_de_Chine Corticoïdes_inhalés Chine calcium Santé_mentale_pendant_la_pandémie_de_Covid-19
+Topic 6: maladie_infectieuse infection maladie vieillesse SHH tissu_adipeux Mars_Exploration_Rover pandemic_potential
+Topic 7: Georg_Sars syndrome_respiratoire_aigu_sévère Stigmatisation_de_Saint-François animal_virus insuffisance_respiratoire magnitude Future incidence
+Topic 8: thérapie Traitement moyen_pour_une_fin groupe type crise_suicidaire création
+Topic 9: virus virus_informatique drogue médicament occurrence essai_clinique Polymer Fumeur
+Topic 10: être_humain transmission_de_pathogène information Homo_sapiens zone_géographique pandémie Results lieu_géométrique
+Topic 11: Orthocoronavirinae Coronaviridae quarantaine domaine Recours acmé groupe Le_Tournant_de_la_vie
+Topic 12: risque nucleocapsid_protein réponse_immunitaire risque_financier Protéine_N_du_SRAS_CoV jeu_de_données protéine_alimentaire Papain-like_proteinase_[SARS-CoV-2]
+Topic 13: intransitif patient plus_que thérapie mécanisme broad_match virus_à_ARN_monocaténaire_à_polarité_négative 5
+Topic 14: Covid-19 SARS-CoV big_data SARS-CoV-2 2003 cardinalité vaccin_contre_la_Covid-19 structural_protein_O3K_17455
+Topic 15: étude projet_de_recherche technique Phase_III essai_clinique_phase_3 usage vaccin_contre_la_Covid-19 enquête
+Topic 16: apostrophe trait_d'union ACE2 anticorps Son_Altesse_Royale Ace2 Protéine_virale_non_structurale protéine
+Topic 17: patient Patient efficacy patient cours population Intrinsic_activity population
+Topic 18: sécurité safety spike_protein candidat_électoral candidat âge_de_la_vie âge spike_protein
+Topic 19: temps temps dernières_paroles Risk niveau production laboratoire_d’idées essai_vaccinal
