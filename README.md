@@ -42,4 +42,5 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
 * Houcemeddine Turki, Data Engineering and Semantics Research Unit, University of Sfax, Tunisia
 * René Fabrice Bile, École nationale supérieure polytechnique de Maroua, University of Maroua, Cameroon
 * Mohamed Ali Hadj Taieb, Data Engineering and Semantics Research Unit, University of Sfax, Tunisia
+* Dennis Priskorn, Mid Sweden University, Sundsvall, Sweden
 * Mohamed Ben Aouicha, Data Engineering and Semantics Research Unit, University of Sfax, Tunisia
