@@ -1,7 +1,6 @@
 # Multilingual-Topic-Modelling-Wikidata
 An algorithm for language-independent LDA-based multilingual topic modelling based on Spacy and Wikidata
 
-**To Cite the Work:** Turki, H., Bile, R. F., Hadj Taieb, M. A., Priskorn, D., & Ben Aouicha, M. (2022). *Using pre-trained models and open knowledge graphs for multilingual topic modeling: the case of SpaCy and Wikidata* (Forthcoming).
 ## Description
 * This project aims to develop three algorithms that allows the topic modelling of multilingual texts related to the same field of interest. These algorithms are based on a combination of *Language Identification*, *Stopword and Punctuation Elimination*, *Spacy Pre-Trained Language Models*, *Latent Dirichlet Allocation*, and *Semantic Alignement to Wikidata*.
 * The developed algorithms works for texts in sixteen natural languages: *Catalan* (ca), *Danish* (da), *German* (de), *Greek* (el), *English* (en), *Spanish* (es), *French* (fr), *Italian* (it), *Japanese* (ja), *Dutch* (nl), *Norwegian* (no), *Polish* (pl), *Portuguese* (pt), *Romanian* (ro), *Russian* (ru), and *Chinese* (zh).
@@ -11,11 +10,13 @@ An algorithm for language-independent LDA-based multilingual topic modelling bas
   * *noun-phrase-based.py*: This algorithm extracts the noun phrases in every analyzed sentence and singularizes them using Spacy mono-lingual pre-trained models. Then, the n-grams included in noun phrases are retrieved. The LDA is performed on noun phrases and on the n-grams they include.
   * *language-neutral.py*: This algorithm does the same as *noun-phrase-based.py*. However, prior to performing LDA, it converts extracted noun-phrases and n-grams into their Wikidata ID allowing an entity to be represented the same regardless the input language.
   * *language-neutral-representation-conversion.py*: This algorithm converts the output of *language-neutral.py* into a human-readable topic representation in a given natural language.
+  * *ex.py*: This algorithm assesses the efficiency of PubMed Central user queries about Cough and COVID-19.
 * **Corpus**: To test our approaches, we use four corpora of 200 sentences:
   * *en-200*: English sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
   * *es-200*: Spanish sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
   * *fr-200*: French sentences randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
   * *multi-200*: Sentences in English, French and Spanish randomly extracted from relevant biomedical literature reviews on COVID-19 as available in PubMed Central Database.
+  * *queries.txt*: A set of PubMed Central Queries about Cough and COVID-19.
 * **Corpus_prep:** The creation and sampling process of the corpora is available in a ZIP File and an Excel File.
 * **Output:** We apply the four algorithms on the three generated datasets and we provide the results of our experiments:
   * *stat.csv*: This provides the values of Log-likelihood at 1500 iterations as well as the runtime of the applications for every dataset.
