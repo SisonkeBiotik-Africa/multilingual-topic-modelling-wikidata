@@ -1,0 +1,14 @@
+Cough AND Symptom AND COVID-19
+"Cough" AND "Symptom" AND "COVID-19"
+"Symptom" AND "Cough" AND "COVID-19"
+"Symptom" AND "COVID-19" AND "Cough"
+"Cough" AND "COVID-19" AND "Symptom"
+"COVID-19" AND "Cough" AND "Symptom"
+"COVID-19" AND "Symptom" AND "Cough"
+"Cough" AND "Symptom" AND "COVID-19" AND "COVID-19"
+"Cough" AND "Symptom" AND "Symptom" AND "COVID-19"
+"Cough" AND "Cough" AND "Symptom" AND "COVID-19"
+"Cough" OR "Symptom" OR "COVID-19"
+Cough OR Symptom OR COVID-19
+"Cough" OR "COVID-19" OR "Symptom"
+"Cough" OR "Symptom" OR "COVID-19" OR "COVID-19"
